@@ -1,0 +1,4 @@
+hosts: ["https://node-1:9200", "https://node-2:9200"]
+user: user
+password: password
+ca_cert: /path/to/ca-cert.pem
